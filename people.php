@@ -1,4 +1,4 @@
-<?php include './headnav.php'; ?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/headnav.php';?>
 <script src='/js/people.js' type="text/javascript"></script>
 <!-- Page Content -->
 <div class="container top-page">
@@ -75,7 +75,7 @@
     <hr>
 
     <!-- Footer -->
-    <?php include '/foot.php'; ?>
+    <?php require $_SERVER['DOCUMENT_ROOT'] . '/foot.php';?>
 
 </div>
 <!-- /.container -->

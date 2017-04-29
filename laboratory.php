@@ -1,4 +1,4 @@
-<?php include './headnav.php'; ?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/headnav.php';?>
 
 <div class="container top-page">
     <div class="row">
@@ -44,7 +44,7 @@
     </div>
     
     
-    <?php include '/foot.php'; ?>
+    <?php require $_SERVER['DOCUMENT_ROOT'] . '/foot.php';?>
 </div>
 <!-- jQuery -->
 <script src="js/jquery.js"></script>
