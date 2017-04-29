@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04-Jan-2017, 15:21:29
+    Author     : eneye380
+*/
+body{
+    font-size: 1.4em;
+    font-family: sans-serif,"Times New Roman", "New Century Schoolbook", serif,Helvetica, Verdana, sans-serif;
+}
+#uhs-navbar{
+    background: #27AE60;
+    
+}
+#uhs-navbar1{
+    background: #145A32;
+    border-bottom: 2px whitesmoke solid;
+    border-right: 1px whitesmoke solid;
+    border-left: 1px whitesmoke solid;
+}
+#list-color a{
+    color: whitesmoke;
+    font-weight: bold;
+}
+#list-color a:hover{
+    background: #145A32;
+}
+
+#dropdown-units{
+    background: #27AE60;
+}
+#dropdown-units a{
+    color: whitesmoke;
+    font-weight: bold;
+}
+#dropdown-units a:hover{
+    background: #145A32;
+}
+
+#dropdown-units .dropdown-header{
+    /**color: #145A32;*/
+    color: whitesmoke;
+    font-weight: bold;
+}
+#list-color{
+    /**background: #27AE60;*/
+}
+.abu h2{
+    color: mintcream;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.abu h5{
+    color: grey;
+    font-weight: bold;
+}
+.top-page{
+    margin-top: 155px;
+}
+#dir-img{
+    float: left;
+}
+#welcome-address{
+    clear: right;
+}

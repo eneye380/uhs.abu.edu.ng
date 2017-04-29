@@ -1,0 +1,95 @@
+{
+    "1":{
+        "name": "DR.(Mrs.) N. H. Madugu",
+        "position": "Director UHS",
+        "img": "../img/people/image-placeholder.jpg",
+        "mandate":"The building of the University Health Services initiated as a sickbay in 1952 by the Nigerian College of Arts and Science. It has grown through thick and thin to its bigness now and continues to grow bigger. A population in excess of hundred thousand (100, 000) people with 35000 student population is now served. Of the new patients we see daily 60-70% is students and we expect to see more."
+    },
+    "2":{
+        "name": "Mal. Yahuza Sahabi Ishaq",
+        "position": "Admin. Secretary",
+        "img": "../img/people/admin-secretary-yahuza.jpg"
+    },
+    "3":{
+        "name": "DR. A. A. Otu",
+        "position": "Chief Medical Officer<br>Main Campus",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "4":{
+        "name": "DR. A. A. Yusuf",
+        "position": "Chief Medical Officer<br>Kongo",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "5":{
+        "name": "Mrs. L. I. Edia",
+        "position": "Head, Nursing Unit<br>Main Campus",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "6":{
+        "name": "Mrs. A. O. Omotoso",
+        "position": "Head, Nursing Unit<br>Kongo",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "7":{
+        "name": "Pharm.(Mrs.) M. A. Ibrahim",
+        "position": "Head, Pharmacy Unit",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "8":{
+        "name": "Mrs. S. B. Kadiri",
+        "position": "Head, Prevention &amp; Sanitation Unit",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "9":{
+        "name": "Mrs. Binta Mohammed",
+        "position": "Head, Account Unit",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "10":{
+        "name": "Mal. Mohammed Abdullahi",
+        "position": "Head, Medical Record Unit",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "11":{
+        "name": "Mal. Salisu Umar",
+        "position": "Head, Afforestation Unit",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "12":{
+        "name": "Mal. M. S. Abubakar",
+        "position": "Head, Laboratory Unit",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "13":{
+        "name":"Chief M.M. Tanko",
+        "position":"Store Officer",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "14":{
+        "name": "Mal. M. T. Barau",
+        "position": "Resident Internal Auditor",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "15":{
+        "name": "DR. M. E. Musch",
+        "position": "Head, Dental Unit",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "16":{
+        "name": "Mr. Sani Jimoh",
+        "position": "Head, Forest Guard",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "17":{
+        "name": "DR. Aliyu Mohammed",
+        "position": "Head, NHIS",
+        "img": "../img/people/image-placeholder.jpg"
+    },
+    "18":{
+        "name": "Mrs. Zainab Yusuf",
+        "position": "Head, Parks & Garden",
+        "img": "../img/people/image-placeholder.jpg"
+    }
+
+
+}

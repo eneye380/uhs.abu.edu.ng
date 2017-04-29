@@ -1,0 +1,67 @@
+[
+    {
+        "unit": "Nursing Unit",
+        "url":"nursing.php"
+        
+    },
+    {
+        
+        "unit": "Pharmacy Unit",
+        "url":"pharmacy.php"
+        
+    },
+    {
+        
+        "unit": "Preventive &amp; Sanitation Unit",
+        "url":"preventive.php"
+        
+    },
+    {
+        "unit": "Account Unit",
+        "url":"account.php"
+        
+    },
+    {
+        "unit": "Medical Record Unit",
+        "url":"medical.php"
+        
+    },
+    {
+        
+        "unit": "Parks &amp; Afforestation Unit",
+        "url":"afforestation.php"
+        
+    },
+    {
+        
+        "unit": "Laboratory Unit",
+        "url":"laboratory.php"
+        
+    },
+        
+    {
+        
+        "unit": "Dental Unit",
+        "url":"dental.php"
+        
+    },
+    {
+        
+        "unit": "Forest Guard Unit",
+        "url":"forest.php"
+        
+    },
+    {
+        
+        "unit": "NHIS Unit",
+        "url":"nhis.php"
+        
+    },
+    {
+        
+        "unit": "Parks &amp; Garden Unit",
+        "url":"parks.php"
+        
+    }
+]
+
