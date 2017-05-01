@@ -60,7 +60,7 @@ getPersonnel = function () {
     var xmlhttp = new XMLHttpRequest();
 //var url = "file:///C:/Users/eneye380/Documents/ABU Moodle/textread.txt";//does not work
 //var url = "http://localhost:8000/res/files/people.json";//works fine
-    var url = "/res/directors.json";//works fine
+    var url = window.location.origin+"/res/directors.json";//works fine
     xmlhttp.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200) {
             var myArr = JSON.parse(this.responseText);//converts the JSON Array to a Javascript Array
