@@ -1,4 +1,4 @@
-<?php require $_SERVER['DOCUMENT_ROOT'] . '/headnav.php';?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/headnav.php'; ?>
 <!-- Page Content -->
 <div class="container top-page">
 
@@ -9,7 +9,7 @@
                 <!--small>Subheading</small-->
             </h1>
             <ol class="breadcrumb">
-                <li><a href="index.php">Home</a>
+                <li><a href="/index.php">Home</a>
                 </li>
                 <li class="active">About</li>
             </ol>
@@ -74,13 +74,13 @@
                     <ul>
                         <li>Evident based medicine and strong referral services.</li>
                         <li>Effective health education and good mental health services.</li>
-                        <li>	HIV/AIDS and drug abuse prevention and mitigation.</li>
-                        <li>	Promotion of positive Health practices, safe motherhood initiative, reproductive health immunization services.</li>
-                        <li>	Youth friendly services.</li>
-                        <li>	Well-equipped laboratories.</li>
-                        <li>	Workplace laboratory safety and accident prevention.</li>
-                        <li>	Food and water hygiene.</li>
-                        <li>	Environmental sanitation, beautification and protection.</li>
+                        <li>HIV/AIDS and drug abuse prevention and mitigation.</li>
+                        <li>Promotion of positive Health practices, safe motherhood initiative, reproductive health immunization services.</li>
+                        <li>Youth friendly services.</li>
+                        <li>Well-equipped laboratories.</li>
+                        <li>Workplace laboratory safety and accident prevention.</li>
+                        <li>Food and water hygiene.</li>
+                        <li>Environmental sanitation, beautification and protection.</li>
                     </ul>
                     These are necessary to meet the 21st century challenges of emerging diseases such as HIV/AIDS, and resurgence of old diseases like tuberculosis, malaria due to severe poverty and other factors.
 
@@ -161,15 +161,15 @@
     <hr>
 
     <!-- Footer -->
-    <?php require $_SERVER['DOCUMENT_ROOT'] . '/foot.php';?>
+    <?php require $_SERVER['DOCUMENT_ROOT'] . '/foot.php'; ?>
 </div>
 <!-- /.container -->
 
 <!-- jQuery -->
-<script src="js/jquery.js"></script>
+<script src="/js/jquery.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 
 </body>
 

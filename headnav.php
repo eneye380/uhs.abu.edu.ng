@@ -12,11 +12,11 @@
         <title>University Health Services</title>
         <link rel="shortcut icon" href="/img/abulogo.png"/>
         <!-- Bootstrap Core CSS -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
 
         <!-- Custom CSS -->
-        <link href="css/modern-business.css" rel="stylesheet">
-        <link href="style/uhs-style.css" rel="stylesheet">
+        <link href="/css/modern-business.css" rel="stylesheet">
+        <link href="/style/uhs-style.css" rel="stylesheet">
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
@@ -58,51 +58,51 @@
                 <div class="collapse navbar-collapse text-uppercase" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right" id="list-color">
                         <li>
-                            <a href="index.php">Home</a>
+                            <a href="/index.php">Home</a>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Units <b class="caret"></b></a>
                             <ul class="dropdown-menu" id="dropdown-units">
                                 <li class="dropdown-header">Curative</li>
-                                <li><a href="/medical.php">Medical Unit</a></li>
-                                <li><a href="/pharmacy.php">Pharmacy Unit</a></li>
-                                <li><a href="/laboratory.php">Laboratory Unit</a></li>
-                                <li><a href="/dental.php">Dental Unit</a></li>
-                                <li><a href="/nursing.php">Nursing Unit</a></li>
+                                <li><a href="/pages/medical.php">Medical Unit</a></li>
+                                <li><a href="/pages/pharmacy.php">Pharmacy Unit</a></li>
+                                <li><a href="/pages/laboratory.php">Laboratory Unit</a></li>
+                                <li><a href="/pages/dental.php">Dental Unit</a></li>
+                                <li><a href="/pages/nursing.php">Nursing Unit</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header">Preventive</li>
-                               <li><a href="/preventive.php">Preventive &amp; Sanitation Unit</a></li>
-                               <li><a href="/afforestation.php">Parks &amp; Afforestation Unit</a></li>
-                               <li><a href="/forest.php">Forest Guard Unit</a></li>
+                               <li><a href="/pages/preventive.php">Preventive &amp; Sanitation Unit</a></li>
+                               <li><a href="/pages/afforestation.php">Parks &amp; Afforestation Unit</a></li>
+                               <li><a href="/pages/forest.php">Forest Guard Unit</a></li>
                                <!--li><a href="/parks.php">Parks &amp; Garden Unit</a></li-->
                                <li class="divider"></li>
                                <li class="dropdown-header">Administrative</li>
-                               <li><a href="/account.php">Account Unit</a></li>
-                               <li><a href="/store.php">Store Unit</a></li>
-                               <li><a href="/medical.php">Medical Record Unit</a></li>
-                               <li><a href="/nhis.php">NHIS Unit</a></li>
+                               <li><a href="/pages/account.php">Account Unit</a></li>
+                               <li><a href="/pages/store.php">Store Unit</a></li>
+                               <li><a href="/pages/medical.php">Medical Record Unit</a></li>
+                               <li><a href="/pages/nhis.php">NHIS Unit</a></li>
                                
                             </ul>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Organization<b class="caret"></b></a>
                             <ul class="dropdown-menu" id="dropdown-units">
-                                <li><a href="/directors.php">Directors</a></li>
+                                <li><a href="/pages/directors.php">Directors</a></li>
                                 <!--li class="divider"></li>
                                 <li><a href="/nursing.php">Secretaries</a></li-->                               
                             </ul>
                         </li>
                         <li>
-                            <a href="people.php">People</a>
+                            <a href="/pages/people.php">People</a>
                         </li>
                         <li>
-                            <a href="services.php">Services</a>
+                            <a href="/pages/services.php">Services</a>
                         </li>
                         <li>
-                            <a href="about.php">About</a>
+                            <a href="/pages/about.php">About</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contact</a>
+                            <a href="/pages/contact.php">Contact</a>
                         </li>
                         <!--li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>

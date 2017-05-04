@@ -1,18 +1,18 @@
-<?php include './headnav.php'; ?>
-<script src='/js/people.js' type="text/javascript"></script>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/headnav.php';?>
+<script src='/js/directors.js' type="text/javascript"></script>
 <!-- Page Content -->
 <div class="container top-page">
 
     <!-- Page Heading/Breadcrumbs -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">People
-                <small>Our Admin Staff</small>
+            <h1 class="page-header">Directors
+                <small>Our Previous & Present Directors</small>
             </h1>
             <ol class="breadcrumb">
-                <li><a href="index.php">Home</a>
+                <li><a href="/index.php">Home</a>
                 </li>
-                <li class="active">Staff</li>
+                <li class="active">Directors</li>
             </ol>
         </div>
     </div>
@@ -75,16 +75,16 @@
     <hr>
 
     <!-- Footer -->
-    <?php include '/foot.php'; ?>
+    <?php require $_SERVER['DOCUMENT_ROOT'] . '/foot.php';?>
 
 </div>
 <!-- /.container -->
 
 <!-- jQuery -->
-<script src="js/jquery.js"></script>
+<script src="/js/jquery.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 
 </body>
 

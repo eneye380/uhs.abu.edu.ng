@@ -17,7 +17,7 @@
 var personnel;
 function displayPeople(arr) {
     //alert(arr.length);
-    alert(window.location.origin);
+    //alert(window.location.origin);
     var out = "";
     var i;
     var len = arr.length;

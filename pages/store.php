@@ -6,7 +6,7 @@
                     <small>Store Unit</small>
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.php">Home</a>
+                    <li><a href="/index.php">Home</a>
                     </li>
                     <li class="active">Store Unit</li>
                 </ol>
@@ -35,9 +35,9 @@
 <?php require $_SERVER['DOCUMENT_ROOT'] . '/foot.php';?>
 
 <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
 </body>
 </html>
