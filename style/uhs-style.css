@@ -12,12 +12,16 @@ body{
     font-size: 1.4em;
     font-family: sans-serif,"Times New Roman", "New Century Schoolbook", serif,Helvetica, Verdana, sans-serif;
 }
-.unit-heading h1,.pages-heading h1{
+.unit-heading h1{
     color: #90a4ae;
     font-weight: bolder;
 }
 .carousel-text{
     color:#00897b;
+    font-weight: bolder;
+}
+.service-heading h1{
+    color: #90a4ae;
     font-weight: bolder;
 }
 #uhs-navbar{
