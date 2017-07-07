@@ -29,9 +29,9 @@ function displayPeople(arr) {
         out += '<div class="thumbnail">';
         out += '<img src="' + arr[i].url + '" class="img-circle img-responsive" alt="img" style="width:200px;height:200px">';
         out += '<div class="caption">';
-        out += '<h4>' + arr[i].name + '<br>';
+        out += '<h5>' + arr[i].name + '<br>';
         out += '<small>' + arr[i].position + '</small>';
-        out += '</h4>';
+        out += '</h5>';
         out += '<!--ul class="list-inline">';
         out += '<li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>';
         out += '</li>';
@@ -61,7 +61,8 @@ getPersonnel = function () {
     var xmlhttp = new XMLHttpRequest();
 //var url = "file:///C:/Users/eneye380/Documents/ABU Moodle/textread.txt";//does not work
 //var url = "http://localhost:8000/res/files/people.json";//works fine
-    var url = window.location.origin+"/res/people.json";//works fine
+    //var url = window.location.origin+"/res/people.json";//works fine
+	var url = "../res/people.json";//works fine
     xmlhttp.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200) {
             var myArr = JSON.parse(this.responseText);//converts the JSON Array to a Javascript Array

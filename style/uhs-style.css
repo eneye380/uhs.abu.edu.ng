@@ -8,15 +8,26 @@ and open the template in the editor.
     Author     : eneye380
 */
 body{
+    /**/background: #eceff1;
     font-size: 1.4em;
     font-family: sans-serif,"Times New Roman", "New Century Schoolbook", serif,Helvetica, Verdana, sans-serif;
 }
+.unit-heading h1,.pages-heading h1{
+    color: #90a4ae;
+    font-weight: bolder;
+}
+.carousel-text{
+    color:#90a4ae;
+    font-weight: bolder;
+}
 #uhs-navbar{
-    background: #27AE60;
-    
+    /*background: #27AE60;*/
+    /**/background: #00897b;
+
 }
 #uhs-navbar1{
-    background: #145A32;
+    /*background: #145A32;*/
+    /**/background: #004d40;
     border-bottom: 2px whitesmoke solid;
     border-right: 1px whitesmoke solid;
     border-left: 1px whitesmoke solid;
@@ -26,18 +37,21 @@ body{
     font-weight: bold;
 }
 #list-color a:hover{
-    background: #145A32;
+    /*background: #145A32;*/
+    /**/background: #004d40;
 }
 
 #dropdown-units{
-    background: #27AE60;
+    /*background: #27AE60;*/
+    /**/background: #00897b;
 }
 #dropdown-units a{
     color: whitesmoke;
     font-weight: bold;
 }
 #dropdown-units a:hover{
-    background: #145A32;
+    /*background: #145A32;*/
+    /**/background: #004d40;
 }
 
 #dropdown-units .dropdown-header{

@@ -1,23 +1,28 @@
 [
     {
-        "name": "DR.(Mrs.) N. H. Madugu",
+        "name": "DR.(Mrs.) N. H. Madugu (FMCOG, MPH, FICS)",
         "position": "Director UHS",
-        "url": "/img/people/director-madugu.jpg"
+        "url": "../img/people/director-madugu.jpg"
+    },
+    {
+        "name": "DR.Otu,Alexious Adeiza ",
+        "position": "Head, Medical Unit",
+        "url": "../img/people/medical-unit.jpg"
     },
     {
         "name": "Mal. Yahuza Sahabi Ishaq",
         "position": "Admin. Secretary",
-        "url": "/img/people/admin-secretary-yahuza.jpg"
+        "url": "../img/people/admin-secretary-yahuza.jpg"
     },
     {
         "name": "Mrs. L. I. Edia",
         "position": "Head, Nursing Unit",
-        "url": "/img/people/nursing.jpg"
+        "url": "../img/people/nursing.jpg"
     },
     {
         "name": "Pharm.(Mrs.) M. A. Ibrahim",
         "position": "Head, Pharmacy Unit",
-        "url": "/img/people/pharmacy-unit-ibrahim.JPG"
+        "url": "../img/people/pharmacy-unit-ibrahim.JPG"
     },
     {
         "name": "Mrs. S. B. Kadiri",

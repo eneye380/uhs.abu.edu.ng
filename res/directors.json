@@ -1,43 +1,43 @@
 [
     {
-        "name": "DR.(Mrs.) N. H. Madugu",
+        "name": "DR.(Mrs.) N. H. Madugu (FMCOG, MPH, FICS)",
         "period": "2014 - Present",
-        "url": "/img/people/director-madugu.jpg"
+        "url": "../img/directors/8.jpg"
     },
     {
         "name": "DR. M. A. Usman FWACS (ORL)",
         "period": "2013 -2014",
-        "url": "../img/people/image-placeholder.jpg"
+        "url": "../img/directors/7.jpg"
     },
     {
         "name": "DR. S. K. Musa",
         "period": "1997 - 2013",
-        "url": "../img/people/image-placeholder.jpg"
+        "url": "../img/directors/6.jpg"
     },
     {
-        "name": "DR. M. A. Usman FWACS(ORL)",
+        "name": "DR. M. A. Usman",
         "period": "1996 - 1997",
-        "url": "../img/people/image-placeholder.jpg"
+        "url": "../img/directors/5.jpg"
     },
     {
         "name": "DR. Farshori Jamil Uddin",
         "period": "1987 - 1996",
-        "url": "../img/people/image-placeholder.jpg"
+        "url": "../img/directors/4.jpg"
     },
     {
         "name": "DR. (MRS.) M. R. Peezek",
         "period": "1983 - 1986",
-        "url": "../img/people/image-placeholder.jpg"
+        "url": "../img/directors/3.jpg"
     },
     {
         "name": "DR. N. A. Hanna",
         "period": "1976 - 1983",
-        "url": "../img/people/image-placeholder.jpg"
+        "url": "../img/directors/2.jpg"
     },
     {
         "name": "DR. O. Olatunji",
         "period": "1973 - 1976",
-        "url": "../img/people/image-placeholder.jpg"
+        "url": "../img/directors/1.jpg"
     }
     
 ]
